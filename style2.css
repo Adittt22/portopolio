@@ -1,0 +1,145 @@
+*,html{
+    margin:0;
+    padding:0;
+}
+.header-container{
+    background-color: #0F172A;
+    width: 100%;
+    height: 5vh;
+    color:white;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+   border-radius: 5px;
+   border: #F8FAFC;
+}
+body{
+    background-color: #0e224b;
+}
+.pembuat{
+    color: #F8FAFC;
+ padding-left: 5%;
+}
+.navigasi-container{
+margin-left: auto;
+color: #F8FAFC;
+margin-right: 15px;
+}
+.profil-container{
+     display: flex;
+     align-items: center;
+}
+.nama{
+ margin-left: 10px;
+margin-top: -15;
+color: #F8FAFC;
+line-height: 1.2;
+
+}
+.fotoprofil{
+    margin-left: 5px;
+    height: 100px;
+    width: 100px;
+}
+
+.aboutme{
+margin-top: 20px;
+border-radius: 8px;
+padding: 15px;
+    background-color: #2b2626;
+    color: white;
+}
+.myskill{
+    color: white;
+padding: 15px;
+
+}
+.skill-container{
+    height:50px;
+    
+    display: flex;
+    align-items: center;
+    
+}
+.skill-html{
+    height: 30px;
+    width: 50px;
+    background-color: rgb(155, 149, 149);
+    color: white;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.skill-css{
+    margin-left: 15px;
+    height: 30px;
+    width: 50px;
+    background-color: rgb(155, 149, 149);
+    color: white;
+
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.skill-network{
+    margin-left: 15px;
+    height: 30px;
+    width: 60px;
+        background-color: rgb(155, 149, 149);
+    color: white;
+
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.myproject{
+    color: white;
+padding: 15px;
+}
+.project-container{
+    height:50px;
+    
+    display: flex;
+    align-items: center;
+    margin-top: 25px;  
+    
+}
+.project-web{
+    height: 80px;
+    width: 110px;
+    background-color: rgb(155, 149, 149);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.project-game{
+    margin-left: 15px;
+    height: 80px;
+    width: 110px;
+    background-color: rgb(155, 149, 149);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.project-network{
+    margin-left: 15px;
+    height: 80px;
+    width: 110px;
+    background-color: rgb(155, 149, 149);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.contactme{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: px;
+    background-color: rgb(126, 126, 223);
+    color: white;
+    margin-top: 15px;
+}
